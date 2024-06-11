@@ -1,6 +1,6 @@
 <?php
 
-	const DB_SERVER="https://147.135.84.19:2083/";
-	const DB_NAME="emlogistics_VENTAS_EYM";
-	const DB_USER="emlogistics";
-	const DB_PASS='kpOtMKw!7,6H';
+	const DB_SERVER="http://51.222.111.159/phpmyadmin";
+	const DB_NAME="ventas";
+	const DB_USER="emlogistics_admin_2023";
+	const DB_PASS='JX{d_tb0e7JYXWO6eU';
