@@ -1,7 +1,7 @@
 <?php
 
-	const APP_URL="https://eymlogistics.github.io/Sistema_ventas_eym.github.io/";
-	const APP_NAME="EymLogistics";
+	const APP_URL="http://localhost/VENTAS_EYM/";
+	const APP_NAME="::EMLOGISTICS::";
 	const APP_SESSION_NAME="POS";
 
 	/*----------  Tipos de documentos  ----------*/

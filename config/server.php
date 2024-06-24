@@ -1,6 +1,6 @@
 <?php
 
-	const DB_SERVER="http://51.222.111.159/phpmyadmin";
+	const DB_SERVER="localhost:3307";
 	const DB_NAME="ventas";
-	const DB_USER="emlogistics_admin_2023";
-	const DB_PASS='JX{d_tb0e7JYXWO6eU';
+	const DB_USER="root";
+	const DB_PASS='Admin24';
